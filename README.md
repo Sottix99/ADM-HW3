@@ -7,5 +7,7 @@
 * Cindy Pistorius [[Github]()]
 * Alesandro Sottile [[Github](https://github.com/Sottix99)]
 # Repository:
-* `main.ipynb` contains the answer to the first two questions + the algorithmic one
-* `Commandline.sh` contains the answer to the command line question
+- `main.ipynb`: main notebook with solutions for questions 1, 2, 3, 4, 6. <br> **Note:** GitHub doesn't show the map of point 4, **open the notebook in Colab instead.**
+- `Question7.1-4.ipynb`: notebook with solutions for question 7, part 1;
+- `Question7.5.ipynb`: notebook with solutions for question 7, part 2;
+- `CommandLine.sh`: bash script for the command line question;
